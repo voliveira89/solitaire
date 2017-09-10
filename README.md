@@ -1,3 +1,3 @@
-# solitaire
-Solitaire - Treehouse Kotlin course app
+# Solitaire
+Treehouse course - Kotlin for Java Developers
 * https://teamtreehouse.com/library/kotlin-for-java-developers
